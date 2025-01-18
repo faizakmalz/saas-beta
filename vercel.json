@@ -19,6 +19,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://saas-beta.vercel.app/",
+        "APP_KEY": "base64:bvYHoGGMEtIErJKm0eAH2liz2kBjH2Q2QwpZsu/2S48=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
