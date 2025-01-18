@@ -13,7 +13,7 @@ return new class extends Migration
     {
         //
         Schema::create('project_master', function (Blueprint $table) {
-            $table->id()->primary();
+            $table->id();
             $table->string('name');
             $table->date('start_date');
             $table->integer('duration');
