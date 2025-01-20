@@ -7,7 +7,7 @@
             </h2>
             <x-primary-button  type="button" class="w-42">
                 <a href="{{ route('projects.create') }}">
-                    Create Project
+                    Create Projectasdasd
                 </a>
             </x-primary-button>
         </div>
